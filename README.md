@@ -4,7 +4,7 @@
 
 ### Integrantes:
 
-![octocat](https://github.com/octocat.png?size=70) [Octogato](https://github.com/octocat)
+![octocat](https://github.com/octocat.png?size=70) [fedealloza](https://github.com/fedealloza)
 
 ## Descripción:
 *breve descripción del proyecto*
