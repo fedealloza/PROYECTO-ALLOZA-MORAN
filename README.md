@@ -1,10 +1,10 @@
-# Título Proyecto
+# JUEGO
 
 [Documento de Especificación](docs/especificacion.md)
 
 ### Integrantes:
 
-![fede](https://avatars.githubusercontent.com/u/89660005?s=400&u=efff3ce8c8368bd4ba48a8c3d52b3e674ff29589&v=4) [fedealloza](https://github.com/fedealloza)
+![fede](https://avatars.githubusercontent.com/u/89660005?s=96&v=4) [fedealloza](https://github.com/fedealloza)
 
 ## Descripción:
 *breve descripción del proyecto*
