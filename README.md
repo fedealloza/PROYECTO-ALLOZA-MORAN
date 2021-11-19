@@ -1,7 +1,5 @@
 # Proyecto: SPACE CUBE
 
-[Documento de Especificación](docs/especificacion.md)
-
 ### Integrantes:
 
 ![fede](https://avatars.githubusercontent.com/u/89660005?s=96&v=4) [fedealloza](https://github.com/fedealloza)
