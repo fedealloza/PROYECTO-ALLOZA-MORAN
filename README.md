@@ -1,4 +1,4 @@
-# JUEGO
+# Proyecto: SPACE CUBE
 
 [Documento de Especificación](docs/especificacion.md)
 
