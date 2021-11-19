@@ -2,7 +2,7 @@
 
 ### Integrantes:
 
-![fede](https://avatars.githubusercontent.com/u/89660005?s=96&v=4) [Federico Alloza](https://github.com/fedealloza)
+![fede](https://avatars.githubusercontent.com/u/89660005?s=96&v=4) [Federico Alloza](https://github.com/fedealloza)<br>
 ![nico](https://avatars.githubusercontent.com/u/91388721?s=96&v=4) [Nicolás Moran](https://github.com/Nico-Moran)
 
 ## Descripción:
