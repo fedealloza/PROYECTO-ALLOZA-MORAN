@@ -1,3 +1,0 @@
-C:/Users/feder/CLionProjects/PROYECTO SPACE CUBE/cmake-build-debug/CMakeFiles/PROYECTO_FINAL.dir
-C:/Users/feder/CLionProjects/PROYECTO SPACE CUBE/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/feder/CLionProjects/PROYECTO SPACE CUBE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
