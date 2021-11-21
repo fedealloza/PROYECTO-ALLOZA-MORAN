@@ -12,4 +12,10 @@ Proyecto de curso para la materia Informatica II de la carrera Ingenieria en Inf
 *detalle de la URL, licencia y autor del asset utilizado.*
 
 ## Capturas
-*capturas del juego/simulación*
+
+![image](https://user-images.githubusercontent.com/89660005/142776558-b54f09b2-a0c6-4ad4-b4ab-cd937a662b86.png)
+![image](https://user-images.githubusercontent.com/89660005/142776568-d5013b88-62e8-44c1-a4a2-e5784e4ffb51.png)
+![image](https://user-images.githubusercontent.com/89660005/142776574-663f601b-d313-4bd7-aeae-4df892992abe.png)
+![image](https://user-images.githubusercontent.com/89660005/142776580-dcdfc0d5-fac7-43d7-b488-6bfa74b98200.png)
+![image](https://user-images.githubusercontent.com/89660005/142776594-16f12d74-3da5-435f-8996-595a90122f0f.png)
+![image](https://user-images.githubusercontent.com/89660005/142776601-eec84209-e34f-49ca-aece-db3943d73f1a.png)
