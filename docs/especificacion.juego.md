@@ -4,10 +4,10 @@ Modifica este archivo con la información del documento de especificación
 
 | Documento de Especificación |   |
 |-----------------------------|---|
-| Fecha de elaboración        |   |
-| Versión                     |   |
+| Fecha de elaboración        | 15/11/2021  |
+| Versión                     | 3.0  |
 
-**Nombre del juego**:
+**Nombre del juego**: SPACE CUBE
 
 **Descripción del juego**: (describir brevemente de que se trata el juego)
 
