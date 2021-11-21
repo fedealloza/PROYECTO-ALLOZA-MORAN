@@ -8,8 +8,11 @@
 ## Descripción:
 Proyecto de curso para la materia Informatica II de la carrera Ingenieria en Informatica, Instituto Universitario Aeronautico. El proyecto consistió en el desarrollo de un juego en el lenguaje C++ con las librerías de SFML, con el objetivo de poner en practica los conocimientos adquiridos a lo largo del cursado.
 
+Video: https://youtu.be/KrEcpj_07Y8
+
+
 ## Licencia de Assets utilizados
-*detalle de la URL, licencia y autor del asset utilizado.*
+ASSETS TOTALMENTE ORIGINALES Y REALIZADOS POR NOSOTROS
 
 ## Capturas
 
